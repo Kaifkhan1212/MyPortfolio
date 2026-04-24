@@ -21,7 +21,7 @@ const Career = () => {
               </div>
               <h3>2025 – 2027</h3>
             </div>
-            <p><b>CGPA: 7.64</b></p>
+            <p><b>aCG: 7.62500</b></p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
